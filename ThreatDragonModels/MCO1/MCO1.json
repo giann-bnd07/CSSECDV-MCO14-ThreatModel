@@ -70,8 +70,8 @@
                 "height": 80
               },
               "position": {
-                "x": 951,
-                "y": 221
+                "x": 1020,
+                "y": 340
               },
               "angle": 0,
               "id": "699e275f-47a0-412b-bb3f-aeeabc0ed569",
@@ -724,8 +724,7 @@
                 "y": 670
               },
               "target": {
-                "x": 510,
-                "y": 420
+                "id": "0a5f3ec0-ad77-442d-95a0-2c36079e9e62"
               },
               "vertices": [
                 {
@@ -737,8 +736,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.6821047211703458,
-                    "offset": -7.709092185563236
+                    "distance": 0.6759729062164899,
+                    "offset": 0.22327463783230228
                   },
                   "attrs": {
                     "text": {
@@ -800,6 +799,84 @@
                 },
                 ".connection": {
                   "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 750,
+                "y": 330
+              },
+              "angle": 0,
+              "id": "8fe16173-3a8f-4720-860f-50d7909b28f4",
+              "z": 25,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Data Access\n(ADO.NET)"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 750,
+                "y": 510
+              },
+              "angle": 0,
+              "id": "8eba8311-2271-46e2-86a5-bd690ac553a2",
+              "z": 26,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "GetCustomerD\netails"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 750,
+                "y": 150
+              },
+              "angle": 0,
+              "id": "475d26d5-6939-40dc-b5d4-bc8390efbd0b",
+              "z": 27,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "StoredProcedu\nre"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
