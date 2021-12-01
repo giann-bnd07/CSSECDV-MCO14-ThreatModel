@@ -552,7 +552,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "accesses restricted\ncatalog\nadministration",
+                      "text": "accesses restricted\ncatalog",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -1224,20 +1224,20 @@
               },
               "vertices": [
                 {
-                  "x": 1003,
-                  "y": 806
+                  "x": 1010,
+                  "y": 792
                 },
                 {
-                  "x": 895,
-                  "y": 802
+                  "x": 908,
+                  "y": 787
                 }
               ],
               "id": "1688ef7a-b7a9-4df5-b368-bc2bbe422c3b",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.5161918802092809,
-                    "offset": 21.04969504473786
+                    "distance": 0.5510915290727207,
+                    "offset": -0.5093155232452482
                   },
                   "attrs": {
                     "text": {
@@ -1309,16 +1309,16 @@
               },
               "vertices": [
                 {
-                  "x": 1081,
-                  "y": 597
+                  "x": 1093,
+                  "y": 581
                 }
               ],
               "id": "dd9ede24-fc55-4aef-b4d0-d3dbddd02731",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.3141041260042172,
-                    "offset": 5.950382425320445
+                    "distance": 0.34579353408144914,
+                    "offset": 5.2907951769829085
                   },
                   "attrs": {
                     "text": {
