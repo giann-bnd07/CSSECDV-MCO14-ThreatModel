@@ -879,6 +879,90 @@
                   "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "0a5f3ec0-ad77-442d-95a0-2c36079e9e62"
+              },
+              "target": {
+                "id": "8eba8311-2271-46e2-86a5-bd690ac553a2"
+              },
+              "vertices": [
+                {
+                  "x": 620,
+                  "y": 500
+                }
+              ],
+              "id": "85dd73c1-92ba-4275-a529-4cc4cdc6da50",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.6419177267060585,
+                    "offset": 1.7736338422190379
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "req customer details",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 28,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "8eba8311-2271-46e2-86a5-bd690ac553a2"
+              },
+              "target": {
+                "id": "0a5f3ec0-ad77-442d-95a0-2c36079e9e62"
+              },
+              "vertices": [
+                {
+                  "x": 650,
+                  "y": 460
+                }
+              ],
+              "id": "f78f6bf7-3a36-4248-8725-310c7aa1d1f0",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.3311991894130025,
+                    "offset": -1.2133622922217624
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "res customer details",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 29,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
