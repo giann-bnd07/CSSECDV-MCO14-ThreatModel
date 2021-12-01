@@ -1320,7 +1320,10 @@
               "id": "dd9ede24-fc55-4aef-b4d0-d3dbddd02731",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.3141041260042172,
+                    "offset": 5.950382425320445
+                  },
                   "attrs": {
                     "text": {
                       "text": "req catalog page",
@@ -1720,17 +1723,17 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 550,
-                "y": 242
+                "x": 528,
+                "y": 230
               },
               "target": {
-                "x": 391,
-                "y": 547
+                "x": 392,
+                "y": 523
               },
               "vertices": [
                 {
-                  "x": 398,
-                  "y": 339
+                  "x": 410,
+                  "y": 331
                 }
               ],
               "id": "bee4f164-0e5d-4ceb-8cf8-d96a339402c8",
@@ -1756,6 +1759,52 @@
               ],
               "id": "f59b107b-fcf0-448b-ab44-d109b3ce320b",
               "z": 49,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 758,
+                "y": 504
+              },
+              "target": {
+                "x": 740,
+                "y": 838
+              },
+              "vertices": [
+                {
+                  "x": 716,
+                  "y": 600
+                },
+                {
+                  "x": 708,
+                  "y": 736
+                }
+              ],
+              "id": "52397c89-7cc5-4381-b8b1-c6e22e44e4fe",
+              "z": 50,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 1132,
+                "y": 546
+              },
+              "target": {
+                "x": 1125,
+                "y": 886
+              },
+              "vertices": [
+                {
+                  "x": 1066,
+                  "y": 722
+                }
+              ],
+              "id": "2acb8a5b-8bbf-4265-a4cd-4da36756f7be",
+              "z": 51,
               "attrs": {}
             }
           ]
