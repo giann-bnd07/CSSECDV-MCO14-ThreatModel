@@ -18,8 +18,8 @@
                 "height": 80
               },
               "position": {
-                "x": 90,
-                "y": 170
+                "x": 53,
+                "y": 168
               },
               "angle": 0,
               "id": "d8c2a75c-8e42-4254-9698-066b32b4371e",
@@ -44,8 +44,8 @@
                 "height": 80
               },
               "position": {
-                "x": 85,
-                "y": 471
+                "x": 46,
+                "y": 452
               },
               "angle": 0,
               "id": "525acd91-f4d8-4b1f-9643-85762e96af68",
@@ -174,7 +174,7 @@
                 "height": 100
               },
               "position": {
-                "x": 448,
+                "x": 436,
                 "y": 671
               },
               "angle": 0,
@@ -254,7 +254,10 @@
               "id": "701d951b-99be-4fc9-ae52-10a1c8a350c0",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.4807797392592401,
+                    "offset": -0.11556777612895935
+                  },
                   "attrs": {
                     "text": {
                       "text": "req catalog",
@@ -293,7 +296,10 @@
               "id": "39f4228e-22cd-4b4f-993a-1cadc6c0cacc",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.45819519350592564,
+                    "offset": -0.24385072396622876
+                  },
                   "attrs": {
                     "text": {
                       "text": "sends credentials",
@@ -325,18 +331,21 @@
               },
               "vertices": [
                 {
-                  "x": 434,
-                  "y": 242
+                  "x": 428,
+                  "y": 238
                 },
                 {
-                  "x": 361,
-                  "y": 198
+                  "x": 347,
+                  "y": 202
                 }
               ],
               "id": "c10e7731-9bf9-4240-90f3-abfa84fe74a1",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.6203374428478049,
+                    "offset": -1.9857563694958273
+                  },
                   "attrs": {
                     "text": {
                       "text": "res catalog",
@@ -407,14 +416,17 @@
               },
               "vertices": [
                 {
-                  "x": 474,
-                  "y": 204
+                  "x": 470,
+                  "y": 170
                 }
               ],
               "id": "d45b8a88-848f-4fa9-bb1b-33cacf826d36",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.43070206165757463,
+                    "offset": -0.2240821273198325
+                  },
                   "attrs": {
                     "text": {
                       "text": "sends verified search\nstring",
@@ -446,8 +458,8 @@
               },
               "vertices": [
                 {
-                  "x": 289,
-                  "y": 373
+                  "x": 288,
+                  "y": 364
                 }
               ],
               "id": "85108bfb-90c0-49e0-a459-cc0542431977",
@@ -485,14 +497,17 @@
               },
               "vertices": [
                 {
-                  "x": 318,
-                  "y": 410
+                  "x": 320,
+                  "y": 403
                 }
               ],
               "id": "9829c6c7-2f2d-44bb-989c-270580d1c3e6",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.5338633999016045,
+                    "offset": -1.4021733966151697
+                  },
                   "attrs": {
                     "text": {
                       "text": "receives credential\nverification status",
@@ -524,14 +539,17 @@
               },
               "vertices": [
                 {
-                  "x": 330,
-                  "y": 461
+                  "x": 326,
+                  "y": 459
                 }
               ],
               "id": "d89a3b1d-886b-4f29-9c8e-5481afb52b30",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.43478639977713995,
+                    "offset": -0.9584617391237731
+                  },
                   "attrs": {
                     "text": {
                       "text": "accesses restricted\ncatalog\nadministration",
@@ -563,14 +581,21 @@
               },
               "vertices": [
                 {
-                  "x": 369,
-                  "y": 500
+                  "x": 384,
+                  "y": 485
+                },
+                {
+                  "x": 274,
+                  "y": 503
                 }
               ],
               "id": "b8a53848-b3ef-49f7-89da-48804fa250c7",
               "labels": [
                 {
-                  "position": 0.5,
+                  "position": {
+                    "distance": 0.6295870828334929,
+                    "offset": -0.23787611072391537
+                  },
                   "attrs": {
                     "text": {
                       "text": "res restricted catalog",
@@ -643,8 +668,8 @@
               },
               "vertices": [
                 {
-                  "x": 340,
-                  "y": 740
+                  "x": 335,
+                  "y": 746
                 }
               ],
               "id": "9daee0d6-9e75-4d48-ae24-a46d08fdbf5b",
@@ -693,8 +718,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.6617630289981767,
-                    "offset": 0.9665631179710864
+                    "distance": 0.6194517393419856,
+                    "offset": 8.627974368707582
                   },
                   "attrs": {
                     "text": {
@@ -779,8 +804,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.47613387185441713,
-                    "offset": 0
+                    "distance": 0.5163814178090947,
+                    "offset": -4.78678033713726
                   },
                   "attrs": {
                     "text": {
@@ -891,16 +916,20 @@
               },
               "vertices": [
                 {
-                  "x": 549,
-                  "y": 888
+                  "x": 544,
+                  "y": 875
+                },
+                {
+                  "x": 625,
+                  "y": 948
                 }
               ],
               "id": "85dd73c1-92ba-4275-a529-4cc4cdc6da50",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.44299585702130545,
-                    "offset": 46.95257815752486
+                    "distance": 0.48262967149352437,
+                    "offset": 16.232665289736094
                   },
                   "attrs": {
                     "text": {
@@ -941,8 +970,8 @@
               "labels": [
                 {
                   "position": {
-                    "distance": 0.2568092213695441,
-                    "offset": 47.973490965901725
+                    "distance": 0.41568615373522805,
+                    "offset": 17.49164512889258
                   },
                   "attrs": {
                     "text": {
@@ -975,20 +1004,20 @@
               },
               "vertices": [
                 {
-                  "x": 875,
-                  "y": 644
+                  "x": 882,
+                  "y": 642
                 },
                 {
-                  "x": 990,
-                  "y": 627
+                  "x": 988,
+                  "y": 626
                 }
               ],
               "id": "da9755a6-0749-4083-9723-91676e89b203",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.48462813486247364,
-                    "offset": -14.34807860526356
+                    "distance": 0.4809122700375586,
+                    "offset": 4.249394166946818
                   },
                   "attrs": {
                     "text": {
@@ -1021,20 +1050,20 @@
               },
               "vertices": [
                 {
-                  "x": 984,
-                  "y": 671
+                  "x": 1008,
+                  "y": 667
                 },
                 {
-                  "x": 880,
-                  "y": 668
+                  "x": 901,
+                  "y": 669
                 }
               ],
               "id": "d58ad858-4a23-49f9-a973-a731d981a5c4",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.565098288862022,
-                    "offset": 12.743504742656064
+                    "distance": 0.5292174479632982,
+                    "offset": 3.213162535849882
                   },
                   "attrs": {
                     "text": {
@@ -1067,20 +1096,20 @@
               },
               "vertices": [
                 {
-                  "x": 875,
-                  "y": 698
+                  "x": 912,
+                  "y": 699
                 },
                 {
-                  "x": 993,
-                  "y": 704
+                  "x": 1024,
+                  "y": 699
                 }
               ],
               "id": "570ae544-9c3b-4978-a741-6c4bf29e1933",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.43552060782675855,
-                    "offset": -8.821629234359825
+                    "distance": 0.44380523345220674,
+                    "offset": -0.8501672210571763
                   },
                   "attrs": {
                     "text": {
@@ -1316,8 +1345,7 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "x": 531,
-                "y": 682
+                "id": "f9e137e4-d2f9-47b0-ad2c-b7a46b0b4f78"
               },
               "target": {
                 "x": 735,
@@ -1325,12 +1353,12 @@
               },
               "vertices": [
                 {
-                  "x": 561,
-                  "y": 652
+                  "x": 585,
+                  "y": 662
                 },
                 {
-                  "x": 675,
-                  "y": 666
+                  "x": 679,
+                  "y": 662
                 }
               ],
               "id": "9308fdfe-cb59-426d-ac05-579965b0ea50",
@@ -1454,8 +1482,8 @@
                   "y": 760
                 },
                 {
-                  "x": 686,
-                  "y": 763
+                  "x": 667,
+                  "y": 765
                 }
               ],
               "id": "bf1b056c-60e4-45cd-85de-b17544f63210",
@@ -1493,8 +1521,8 @@
               },
               "vertices": [
                 {
-                  "x": 692,
-                  "y": 787
+                  "x": 668,
+                  "y": 795
                 },
                 {
                   "x": 589,
@@ -1536,16 +1564,16 @@
               },
               "vertices": [
                 {
-                  "x": 985,
-                  "y": 865
+                  "x": 986,
+                  "y": 867
                 }
               ],
               "id": "03fc6fdb-9b76-454e-acca-b58071213319",
               "labels": [
                 {
                   "position": {
-                    "distance": 0.3952139728907815,
-                    "offset": -25.59873887896009
+                    "distance": 0.5119400525737855,
+                    "offset": -9.412859136859332
                   },
                   "attrs": {
                     "text": {
@@ -1578,12 +1606,12 @@
               },
               "vertices": [
                 {
-                  "x": 1089,
-                  "y": 830
+                  "x": 1082,
+                  "y": 852
                 },
                 {
-                  "x": 886,
-                  "y": 971
+                  "x": 928,
+                  "y": 946
                 }
               ],
               "id": "f99942b9-15df-45e0-b4e7-87fe7c121c80",
@@ -1621,8 +1649,8 @@
               },
               "vertices": [
                 {
-                  "x": 665,
-                  "y": 497
+                  "x": 677,
+                  "y": 502
                 }
               ],
               "id": "36df83fc-a418-49d1-89ca-3cc4e570160b",
@@ -1687,6 +1715,48 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 550,
+                "y": 242
+              },
+              "target": {
+                "x": 391,
+                "y": 547
+              },
+              "vertices": [
+                {
+                  "x": 398,
+                  "y": 339
+                }
+              ],
+              "id": "bee4f164-0e5d-4ceb-8cf8-d96a339402c8",
+              "z": 48,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 221,
+                "y": 659
+              },
+              "target": {
+                "x": 564,
+                "y": 645
+              },
+              "vertices": [
+                {
+                  "x": 408,
+                  "y": 625
+                }
+              ],
+              "id": "f59b107b-fcf0-448b-ab44-d109b3ce320b",
+              "z": 49,
+              "attrs": {}
             }
           ]
         },
